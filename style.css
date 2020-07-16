@@ -111,7 +111,7 @@ li:hover .dlist {
   background-color: rgba(255, 255, 255, 0.2);
 }
 li > a:hover {
-  background-color: rgba(255, 255, 255, 0.2);
+  border-bottom: 2px solid orange;
 }
 li > .tri:hover {
   background-color: rgba(255, 255, 255, 0.2);
